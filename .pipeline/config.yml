@@ -29,16 +29,18 @@ steps:
       credentialsId: 'amit-4205-cf'
 
 ### Stage-specific configuration
-
 stages:
   'Central Build':
     buildExecute: true
+    
 
   'Acceptance':
     cloudFoundryDeploy: false
 
   'Confirm':
     manualConfirmation: false
+
+
 
 'Release':
   cloudFoundryDeploy: true
