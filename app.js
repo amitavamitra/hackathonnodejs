@@ -12,5 +12,5 @@ app.get('/', function(req,res){
 console.log('Hello world')
 
 app.listen(3002, function(){
-    console.log('Azure DevOps NodeJs app running at port 3002');
+    console.log('CI/CD NodeJs app running at port 3002');
 })
