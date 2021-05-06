@@ -40,6 +40,6 @@ stages:
   'Confirm':
     manualConfirmation: false
 
-  'Release':
-    cloudFoundryDeploy: true
+'Release':
+  cloudFoundryDeploy: true
 
