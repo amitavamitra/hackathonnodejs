@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amitavamitra/hackathonnodejs.git"
+    "url": "git+https://github.tools.sap/I304524/ic-4205-amit-nodejs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amitavamitra/hackathonnodejs/issues"
+    "url": "https://github.tools.sap/I304524/ic-4205-amit-nodejs/issues"
   },
-  "homepage": "https://github.com/amitavamitra/hackathonnodejs#readme",
+  "homepage": "https://github.tools.sap/I304524/ic-4205-amit-nodejs#readme",
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.1"
